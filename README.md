@@ -1,6 +1,6 @@
 # Hi, there! 👋
 
-> *Continuous learning.*
+> *Continuous Learning.*
 
 I am a **Telecommunications Engineer** with a strong foundation in systems, services, and network design, currently leveraging my skills as a **Software Engineer**.
 
