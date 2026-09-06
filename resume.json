@@ -1,0 +1,899 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "theme": "data-driven"
+  },
+  "basics": {
+    "name": "Asier Pabolleta Martorell",
+    "label": "Software Engineer",
+    "image": "https://raw.githubusercontent.com/apabolleta/apabolleta/main/assets/images/apabolleta.jpg",
+    "email": "apabolleta@gmail.com",
+    "phone": "+34 601 281 530",
+    "url": "https://apabolleta.github.io",
+    "summary": "Telecommunications Engineer with a strong foundation in systems, services, and network design, currently leveraging my skills as a Software Engineer. Experienced in delivering customer-facing, production-grade systems across full stack development, data engineering, and software architecture, with a particular interest in system design, modern software architectures, and scalable data-driven solutions.",
+    "location": {
+      "city": "Berriozar",
+      "countryCode": "ES",
+      "region": "Navarra"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "asier-pabolleta-martorell",
+        "url": "https://www.linkedin.com/in/asier-pabolleta-martorell/"
+      },
+      {
+        "network": "GitHub",
+        "username": "apabolleta",
+        "url": "https://github.com/apabolleta"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "kude.io",
+      "location": "Berriozar, Navarra",
+      "description": "A platform for structured content management.",
+      "position": "Project Owner",
+      "url": "https://kude.io/",
+      "startDate": "2025-09-01",
+      "summary": "Started as a self-project, kude.io is a SaaS platform for structured content management on WordPress. Built on top of the Open Content Framework project, it provides a customizable framework for managing structured content, with the long-term vision of becoming a centralized platform for business processes, domain data, and workflows.",
+      "highlights": [
+        "Founded and owned the kude.io platform, defining its product vision, roadmap, and technical approach",
+        "Designed the overall system specification, requirements and software architecture",
+        "Led the full stack software development",
+        "Managed the infrastructure, deployments, monitoring, maintenance, and ongoing feature development as the main project owner"
+      ],
+      "skills": [
+        {
+          "name": "WordPress Development",
+          "level": "Advanced",
+          "keywords": [
+            "WordPress",
+            "Plugins",
+            "Themes",
+            "Hooks",
+            "Metadata",
+            "Custom Post Types",
+            "Taxonomies",
+            "Blocks",
+            "Block Editor",
+            "Gutenberg",
+            "REST API",
+            "WP-CLI"
+          ]
+        },
+        {
+          "name": "PHP",
+          "level": "Advanced",
+          "keywords": [
+            "PHP 7.4+",
+            "Composer",
+            "PSR",
+            "PHPCS",
+            "PHPUnit",
+            "PHPDoc"
+          ]
+        },
+        {
+          "name": "Web Development",
+          "level": "Advanced",
+          "keywords": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "jQuery",
+            "AJAX",
+            "Node.js",
+            "React"
+          ]
+        },
+        {
+          "name": "Databases and Data Modeling",
+          "level": "Advanced",
+          "keywords": [
+            "SQL",
+            "MySQL",
+            "Relational Modeling",
+            "Database Management",
+            "Query Optimization"
+          ]
+        },
+        {
+          "name": "DevOps and CI/CD",
+          "level": "Intermediate",
+          "keywords": [
+            "GNU/Linux",
+            "Bash",
+            "Git",
+            "GitHub",
+            "GitHub Actions",
+            "NGINX",
+            "Docker",
+            "Kubernetes"
+          ]
+        },
+        {
+          "name": "Project Planning",
+          "level": "Intermediate",
+          "keywords": [
+            "System Specification",
+            "Requirements Analysis",
+            "Planning",
+            "Testing",
+            "Documentation"
+          ]
+        },
+        {
+          "name": "AI and Agents",
+          "level": "Intermediate",
+          "keywords": [
+            "Agents",
+            "Subagents",
+            "Skills",
+            "MCP",
+            "Hooks",
+            "Claude",
+            "Claude Code"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "das-Nano",
+      "location": "Tajonar, Navarra",
+      "description": "Industry Terahertz Technology",
+      "position": "Software Engineer",
+      "url": "https://das-nano.com/",
+      "startDate": "2021-09-01",
+      "endDate": "2025-09-01",
+      "summary": "Started as a Junior Software Developer, rapidly gaining experience through small desktop and web projects. Early on, began designing and developing production-grade software for business-critical industrial terahertz-technology use cases. More recently, joined a new business initiative within the company to build a strategic data analytics platform, acting as lead architect and developer, and ultimately delivering it as a Telecommunications Engineering Master's thesis.",
+      "highlights": [
+        "Delivered production-grade software for business-critical industrial terahertz measurement and instrumentation systems for world-leading automotive OEMs",
+        "Led customer-facing requirements analysis and system specification for complex technical solutions in highly constrained environments",
+        "Architected and built a data analytics platform as lead architect and developer",
+        "Designed relational data models and scalable system architectures for production-grade, data-intensive software solutions",
+        "Developed and orchestrated automated data pipelines for operational data processing and ingestion",
+        "Built BI dashboards and analytical layers to support operational quality monitoring and decision-making"
+      ],
+      "skills": [
+        {
+          "name": "Full Stack Software Development",
+          "level": "Advanced",
+          "keywords": [
+            "Python",
+            "Flask",
+            "FastAPI",
+            "Plotly Dash",
+            "JavaScript",
+            "TypeScript",
+            "Node.js",
+            "React",
+            "Redux",
+            "Webpack",
+            "Electron"
+          ]
+        },
+        {
+          "name": "Databases and Data Modeling",
+          "level": "Advanced",
+          "keywords": [
+            "SQL",
+            "SQLite",
+            "SQL Server",
+            "Transact-SQL",
+            "Relational Modeling",
+            "Database Management",
+            "Query Optimization",
+            "Pydantic",
+            "SQLModel",
+            "SQLAlchemy",
+            "Alembic"
+          ]
+        },
+        {
+          "name": "Data Engineering",
+          "level": "Intermediate",
+          "keywords": [
+            "ETL",
+            "ELT",
+            "Pandas",
+            "PySpark"
+          ]
+        },
+        {
+          "name": "Data Visualization and Business Intelligence",
+          "level": "Intermediate",
+          "keywords": [
+            "Plotly",
+            "Tableau",
+            "Apache Superset"
+          ]
+        },
+        {
+          "name": "DevOps and CI/CD",
+          "level": "Intermediate",
+          "keywords": [
+            "Windows",
+            "PowerShell",
+            "WSL",
+            "Git",
+            "GitLab",
+            "GitLab CI/CD",
+            "GitLab Registry",
+            "Docker"
+          ]
+        },
+        {
+          "name": "Project Management",
+          "level": "Beginner",
+          "keywords": [
+            "System Specification",
+            "Requirements Analysis",
+            "Planning",
+            "Testing",
+            "Documentation",
+            "Stakeholder Management",
+            "Communication"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gesinor Servicio de Prevención",
+      "location": "Artica, Navarra",
+      "description": "Occupational Health and Safety",
+      "position": "IT Engineer",
+      "url": "https://gesinor.com",
+      "startDate": "2019-09-01",
+      "endDate": "2020-06-01",
+      "summary": "Handled day-to-day IT operations for an occupational health and safety company, covering end-user support, infrastructure maintenance, and system administration. Managed corporate email and domain services, maintained the company website, and automated recurring IT tasks through scripting.",
+      "highlights": [
+        "Managed end-user onboarding, software updates, and antivirus setup across company workstations",
+        "Maintained IT infrastructure including servers, services, and communication equipment",
+        "Administered Microsoft 365 services and Active Directory domain services",
+        "Maintained and updated the company website",
+        "Automated recurring IT tasks using PowerShell and Transact-SQL scripts"
+      ],
+      "skills": [
+        {
+          "name": "Microsoft 365 and Domain Services",
+          "level": "Beginner",
+          "keywords": [
+            "Microsoft 365",
+            "Exchange Online",
+            "Tenant Administration",
+            "Active Directory",
+            "User and Group Management",
+            "Email Services Administration"
+          ]
+        },
+        {
+          "name": "Systems Administration",
+          "level": "Beginner",
+          "keywords": [
+            "Windows Server",
+            "Server Maintenance",
+            "Network Administration",
+            "Virtualization",
+            "Backup and Recovery",
+            "Software Deployment",
+            "Endpoint Security",
+            "Help Desk Support"
+          ]
+        },
+        {
+          "name": "Databases",
+          "level": "Beginner",
+          "keywords": [
+            "SQL Server",
+            "SQL Server Management Studio",
+            "Transact-SQL"
+          ]
+        },
+        {
+          "name": "Automation and Scripting",
+          "level": "Intermediate",
+          "keywords": [
+            "PowerShell",
+            "Task Automation",
+            "Task Scheduling",
+            "Administrative Scripting"
+          ]
+        },
+        {
+          "name": "Website Administration",
+          "level": "Intermediate",
+          "keywords": [
+            "WordPress",
+            "Website Maintenance",
+            "Content Management",
+            "Social Media"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de Castilla - La Mancha (UCLM)",
+      "url": "https://www.uclm.es/",
+      "area": "Data Science and Cloud Data Engineering",
+      "studyType": "Master",
+      "startDate": "2024-09-01",
+      "endDate": "2025-09-01",
+      "courses": [
+        "Introduction to Data Science",
+        "Data Acquisition and Storage",
+        "Exploratory Data Analysis",
+        "Fundamentals of Machine Learning",
+        "Advanced Machine Learning Techniques",
+        "Deep Learning",
+        "Time Series Analysis",
+        "Text Mining, Networks and Recommendation Systems",
+        "Visualization and BI",
+        "Cloud Services",
+        "Advanced Cloud Services",
+        "Big Data Architectures and Processes",
+        "Data Warehouses and Data Lakes",
+        "Big Data Services Deployment and Pipeline Orchestration",
+        "Master's Thesis"
+      ],
+      "highlights": [
+        "Completed the Master's degree while working full-time at das-Nano",
+        "Designed and implemented real-world data science and engineering projects taught by experienced faculty working at leading technology companies",
+        "Carried out the Master's thesis within das-Nano, applying academic knowledge on a professional data engineering project"
+      ],
+      "skills": [
+        {
+          "name": "Data Science and Machine Learning",
+          "level": "Intermediate",
+          "keywords": [
+            "Python",
+            "Jupyter Notebook",
+            "Google Colab",
+            "Docker",
+            "NumPy",
+            "Pandas",
+            "Matplotlib",
+            "Seaborn",
+            "Statsmodels",
+            "scikit-learn",
+            "Exploratory Data Analysis",
+            "Statistical Analysis",
+            "Predictive Analytics",
+            "Data Visualization",
+            "Feature Engineering",
+            "Supervised Learning",
+            "Unsupervised Learning",
+            "Model Training, Evaluation, and Validation",
+            "Hyperparameter Tunning",
+            "Time Series Analysis"
+          ]
+        },
+        {
+          "name": "Deep Learning",
+          "level": "Intermediate",
+          "keywords": [
+            "TensorFlow",
+            "Keras",
+            "Feed-forward Neural Networks",
+            "Convolutional Neural Networks"
+          ]
+        },
+        {
+          "name": "NLP and Recommendation Systems",
+          "level": "Intermediate",
+          "keywords": [
+            "NLTK",
+            "SpaCy",
+            "Tokenization",
+            "Transformers",
+            "Text Mining",
+            "Text Classification",
+            "Sentiment Analysis",
+            "Recommendation Systems"
+          ]
+        },
+        {
+          "name": "Data Engineering",
+          "level": "Intermediate",
+          "keywords": [
+            "SQL",
+            "NoSQL",
+            "ETL",
+            "ELT",
+            "Data Pipelines",
+            "Data Modeling",
+            "Apache Spark",
+            "Apache Airflow",
+            "Prefect",
+            "AWS Glue",
+            "Delta Lake",
+            "APIs",
+            "Web Scraping",
+            "Data Governance",
+            "Data Quality"
+          ]
+        },
+        {
+          "name": "Big Data",
+          "level": "Intermediate",
+          "keywords": [
+            "Apache Spark",
+            "Spark MLlib",
+            "Spark Streaming",
+            "Apache Kafka",
+            "Event Streaming",
+            "Distributed Computing"
+          ]
+        },
+        {
+          "name": "Cloud Computing (AWS)",
+          "level": "Intermediate",
+          "keywords": [
+            "AWS EC2",
+            "AWS S3",
+            "AWS Lambda",
+            "AWS IAM",
+            "AWS RDS",
+            "AWS DynamoDB",
+            "AWS CloudWatch"
+          ]
+        },
+        {
+          "name": "DevOps and CI/CD",
+          "level": "Intermediate",
+          "keywords": [
+            "Docker",
+            "AWS CloudFormation",
+            "Infrastructure as Code",
+            "Serverless Framework",
+            "CI/CD",
+            "MLOps",
+            "MLFlow"
+          ]
+        },
+        {
+          "name": "Data Visualization and Business Intelligence",
+          "level": "Intermediate",
+          "keywords": [
+            "Visualization Principles",
+            "Dashboard Design",
+            "BI Tools",
+            "Apache Superset"
+          ]
+        }
+      ]
+    },
+    {
+      "institution": "Universidad Pública de Navarra (UPNA)",
+      "url": "https://www.unavarra.es/",
+      "area": "Telecommunications Engineering",
+      "studyType": "Master",
+      "startDate": "2021-09-01",
+      "endDate": "2023-09-01",
+      "courses": [
+        "Communication Systems",
+        "Network Design and Management",
+        "Telematics Application Design",
+        "Multimedia Signal Processing",
+        "Electronic Design",
+        "Sensors and Instrumentation",
+        "ICT Project Management",
+        "Next-Generation Networks",
+        "Advanced Communication Systems",
+        "Integrated and Embedded Systems",
+        "Multimedia Service Deployment"
+      ],
+      "highlights": [
+        "Completed the Master's degree through UPNA's dual-training program, combining academic coursework with part-time employment at das-Nano",
+        "Applied telecommunications engineering knowledge directly to real industrial terahertz-technology projects",
+        "Carried out the Master's thesis within das-Nano, designing and developing a production data analytics platform for the company",
+        "Balanced full-time professional responsibilities with graduate-level coursework in networks, embedded systems, and telematics",
+        "Built a Tunnel Management System academic project featuring IoT sensor monitoring, automatic license plate recognition via computer vision, and a React Native management platform"
+      ],
+      "skills": [
+        {
+          "name": "Network Engineering",
+          "level": "Intermediate",
+          "keywords": [
+            "Network Design",
+            "Network Management",
+            "Next-Generation Networks",
+            "IP Networking"
+          ]
+        },
+        {
+          "name": "Telematics and Distributed Applications",
+          "level": "Intermediate",
+          "keywords": [
+            "Telematics Application Design",
+            "Multimedia Service Deployment",
+            "Distributed Systems",
+            "Service Architecture"
+          ]
+        },
+        {
+          "name": "Embedded and Communication Systems",
+          "level": "Intermediate",
+          "keywords": [
+            "Integrated and Embedded Systems",
+            "Sensors and Instrumentation",
+            "Electronic Design",
+            "Communication Systems",
+            "Multimedia Signal Processing"
+          ]
+        },
+        {
+          "name": "Project Management",
+          "level": "Intermediate",
+          "keywords": [
+            "ICT Project Management",
+            "Planning",
+            "Technical Documentation"
+          ]
+        },
+        {
+          "name": "Data Platform Development",
+          "level": "Intermediate",
+          "keywords": [
+            "Python",
+            "Docker",
+            "REST APIs",
+            "Modular Software Design",
+            "Scalable System Design"
+          ]
+        },
+        {
+          "name": "Full Stack Software Development",
+          "level": "Intermediate",
+          "keywords": [
+            "React",
+            "React Native",
+            "Node.js",
+            "Firebase",
+            "GitLab",
+            "Arduino",
+            "Computer Vision"
+          ]
+        }
+      ]
+    },
+    {
+      "institution": "Universitat Politècnica de Catalunya (UPC) · ETSETB",
+      "url": "https://telecos.upc.edu/",
+      "area": "Telecommunications Technologies and Services Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2017-09-01",
+      "endDate": "2021-07-01",
+      "courses": [
+        "Computer Fundamentals",
+        "Object-Oriented Programming",
+        "Introduction to Telematics Networks",
+        "Telematics Applications and Services",
+        "Data Transmission",
+        "Linux Systems Administration",
+        "Machine Learning",
+        "Network Infrastructures",
+        "Analysis and Evaluation of Networks",
+        "Internet Transport, Control, and Management",
+        "Software for Distributed Applications",
+        "Information Security and Privacy",
+        "Mobile Communications Support Systems",
+        "Advanced Engineering Project - Telematics Systems"
+      ]
+    },
+    {
+      "institution": "Iturrama BHI",
+      "url": "https://iturrama.web.educacion.navarra.es/",
+      "area": "Science and Technology",
+      "studyType": "Bachelor",
+      "startDate": "2015-09-01",
+      "endDate": "2017-07-01"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Claude Code 101",
+      "date": "2026-05-24",
+      "issuer": "Anthropic Education",
+      "url": "https://verify.skilljar.com/c/2a35pkyrwiv4"
+    },
+    {
+      "name": "Claude 101",
+      "date": "2026-05-09",
+      "issuer": "Anthropic Education",
+      "url": "https://verify.skilljar.com/c/zkur6xmjhd6r"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Development of a data analytics platform for multilayer coating thickness measurement and electrical characterization of 2D materials",
+      "publisher": "Universidad Pública de Navarra (UPNA) · das-Nano",
+      "releaseDate": "2023",
+      "url": "https://hdl.handle.net/2454/46594",
+      "summary": "Master's thesis developing a data collection and analysis platform for das-Nano Tech S.L., supporting non-contact terahertz-based thickness measurement of multilayer coatings and electrical characterization of 2D materials. Delivered a modular, scalable platform addressing both end-user measurement analysis and system administration needs, built with Python, Docker, and REST APIs. Advised by Israel Arnedo Gil."
+    },
+    {
+      "name": "Improvement of a positioning system for assisted and autonomous driving",
+      "publisher": "Universitat Politècnica de Catalunya (UPC) · ETSETB",
+      "releaseDate": "2021-07-05",
+      "url": "https://hdl.handle.net/2117/357077",
+      "summary": "Degree thesis on data fusion techniques for vehicle positioning in assisted and autonomous driving, comparing GNSS, image recognition, Ultra-Wideband (UWB), and Inertial Navigation System (INS) approaches, and evaluating linear and Extended Kalman Filter (EKF) algorithms through simulation and real-world testing to improve positioning reliability under adverse conditions. Advised by Anna M. Calveras Augé."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Operative Systems",
+      "level": "Advanced",
+      "keywords": [
+        "GNU/Linux",
+        "Windows"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "keywords": [
+        "C/C++",
+        "Python",
+        "PHP",
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "Full Stack Software Development",
+      "level": "Advanced",
+      "keywords": [
+        "Flask",
+        "FastAPI",
+        "Plotly Dash",
+        "Symfony",
+        "Node.js",
+        "React",
+        "React Native",
+        "Redux",
+        "Webpack"
+      ]
+    },
+    {
+      "name": "Databases and Data Modeling",
+      "level": "Advanced",
+      "keywords": [
+        "SQL",
+        "NoSQL",
+        "SQLite",
+        "MySQL",
+        "SQL Server",
+        "Transact-SQL",
+        "Relational Modeling",
+        "Database Management",
+        "Query Optimization",
+        "Data Architecture",
+        "Data Warehouse",
+        "Data Lake",
+        "Data Lakehouse",
+        "Pydantic",
+        "SQLModel",
+        "SQLAlchemy",
+        "Alembic"
+      ]
+    },
+    {
+      "name": "Data Engineering",
+      "level": "Intermediate",
+      "keywords": [
+        "ETL",
+        "ELT",
+        "Pandas",
+        "PySpark",
+        "Apache Spark",
+        "Apache Airflow",
+        "Prefect",
+        "APIs",
+        "Web Scraping"
+      ]
+    },
+    {
+      "name": "Data Science and Machine Learning",
+      "level": "Intermediate",
+      "keywords": [
+        "Jupyter Notebook",
+        "Google Colab",
+        "NumPy",
+        "Pandas",
+        "Matplotlib",
+        "Seaborn",
+        "Plotly",
+        "Statsmodels",
+        "scikit-learn",
+        "Exploratory Data Analysis",
+        "Statistical Analysis",
+        "Predictive Analytics",
+        "Data Visualization",
+        "Feature Engineering",
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Model Training, Evaluation, and Validation",
+        "Hyperparameter Tunning",
+        "Time Series Analysis"
+      ]
+    },
+    {
+      "name": "Big Data and Cloud Computing",
+      "level": "Intermediate",
+      "keywords": [
+        "Apache Spark",
+        "Apache Kafka",
+        "AWS (EC2, S3, Lambda, IAM, RDS, DynamoDB, CloudWatch)",
+        "Distributed Computing",
+        "Event Streaming"
+      ]
+    },
+    {
+      "name": "Data Visualization and Business Intelligence",
+      "level": "Intermediate",
+      "keywords": [
+        "Matplotlib",
+        "Plotly",
+        "Seaborn",
+        "Tableau",
+        "Apache Superset"
+      ]
+    },
+    {
+      "name": "DevOps and CI/CD",
+      "level": "Intermediate",
+      "keywords": [
+        "GNU/Linux",
+        "Bash",
+        "Git",
+        "GitHub",
+        "GitHub Actions",
+        "GitLab",
+        "GitLab CI/CD",
+        "GitLab Registry",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "Software Architecture and Systems Design",
+      "level": "Intermediate",
+      "keywords": [
+        "System Specification",
+        "Requirements Analysis",
+        "Distributed Systems",
+        "Domain-Driven Design",
+        "Scalable System Design"
+      ]
+    },
+    {
+      "name": "AI and Agents",
+      "level": "Intermediate",
+      "keywords": [
+        "Agents",
+        "Subagents",
+        "Skills",
+        "MCP",
+        "Hooks",
+        "Claude",
+        "Claude Code"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Basque",
+      "fluency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner"
+    },
+    {
+      "language": "Catalan",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Systems Design",
+      "keywords": [
+        "Requirements Engineering",
+        "System Specification",
+        "Specification Design",
+        "Trade-off Analysis",
+        "Non-Functional Requirements",
+        "Architectural Requirements"
+      ]
+    },
+    {
+      "name": "Software Architecture",
+      "keywords": [
+        "Architectural Patterns",
+        "Domain-Driven Design",
+        "Microservices",
+        "API Design",
+        "Modularity",
+        "Scalability",
+        "Performance"
+      ]
+    },
+    {
+      "name": "Scalable Data-Driven Systems",
+      "keywords": [
+        "Distributed Systems",
+        "Data Pipeline Design",
+        "Data Modeling",
+        "Cloud-Native Architectures"
+      ]
+    },
+    {
+      "name": "Reading and Continuous Learning",
+      "keywords": [
+        "Domain-Driven Design (DDD). Eric Evans",
+        "Data Mesh. Zhamak Dehghani",
+        "Fundamentals of Software Architecture (O'Reilly). Mark Richards, Neal Ford",
+        "Software Architecture: The Hard Parts (O'Reilly). Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani"
+      ]
+    },
+    {
+      "name": "Team Sports",
+      "keywords": [
+        "Roll Hockey",
+        "Tug of War"
+      ]
+    },
+    {
+      "name": "Hiking"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Open Content Framework",
+      "description": "A framework built on WordPress for structured, automated and customizable content management.",
+      "highlights": [
+        "Designed a framework for structured content management",
+        "Serves as the underlying foundation for the kude.io SaaS platform",
+        "Open Source Software"
+      ],
+      "keywords": [
+        "WordPress",
+        "PHP",
+        "Framework",
+        "Structured Content Management"
+      ],
+      "url": "https://github.com/Open-Content-Framework/open-content-framework",
+      "type": "framework"
+    },
+    {
+      "name": "symfony-ticketbai",
+      "description": "Symfony Bundle for TicketBAI system.",
+      "highlights": [
+        "Implemented TicketBAI invoice generation, signing, and submission workflows as a reusable Symfony bundle",
+        "Designed a Symfony bundle that integrates TicketBAI, the Basque Country's electronic tax reporting and invoice certification system, into Symfony-based applications.",
+        "Published as an open-source Composer package with documentation and a full test suite"
+      ],
+      "keywords": [
+        "PHP",
+        "Symfony",
+        "Composer",
+        "PHPUnit",
+        "TicketBAI"
+      ],
+      "url": "https://github.com/apabolleta/symfony-ticketbai",
+      "type": "package"
+    }
+  ]
+}
