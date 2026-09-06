@@ -1,0 +1,18 @@
+name: Deploy JSON Resume
+
+on:
+  push:
+    branches: [main]
+    paths: [resume.json]
+
+jobs:
+  deploy-json-resume:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: apabolleta/deploy-json-resume-action@v1
+        with:
+          resume-path: resume.json
+          gist-id: 172e239b83c4e17bf14dfa4ad32b5b30
+        secrets:
+          gist-token: ${{ secrets.GIST_TOKEN }}
